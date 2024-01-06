@@ -28,14 +28,14 @@ Users should be able to:
 
 ![Faq Accordion Active](./screenshots/Faq-Accordian-Active.png)
 
-![Faq Accordion Hover](./screenshots/Faq-Accordian-hover.png)
+![Faq Accordion Hover](./screenshots/Faq-accordian-hover.png)
 
 ![Faq Accordion Mobile Display](./screenshots/Mobile-Display.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Jack-OC/FAQ-Accordion)
+- Live Site URL: [Live site URL](https://jack-oc.github.io/FAQ-Accordion/)
 
 ## My process
 
