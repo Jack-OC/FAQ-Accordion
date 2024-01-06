@@ -89,10 +89,6 @@ body {
     display: none;
 }
 
-.answer.show{
-    display: block;
-}
-
 @media (min-width: 375px) {
     .accordion-body{
         max-width: 600px;
